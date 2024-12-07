@@ -15,7 +15,7 @@ h2 {
     font-size: 64px;
 }
 
-h4 {
+h3 {
     font-size: 48px;
 }
 
@@ -29,7 +29,7 @@ p {
 .intro {
     background-color: #f9f7fe;
     text-align: center;
-    padding: 160px 20px;
+    padding: 80px 20px;
 }
 
 .intro p {
@@ -52,7 +52,7 @@ p {
 }
 
 .content-container {
-    padding: 160px 20px;
+    padding: 60px 20px;
 }
 
 .content-container h1 {
@@ -194,10 +194,6 @@ footer .social-links a:hover {
 
     .content-container h1 {
         font-size: 40px;
-    }
-
-    .intro {
-        padding: 80px 20px;
     }
 
     .about-header {

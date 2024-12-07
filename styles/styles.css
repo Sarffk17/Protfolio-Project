@@ -188,6 +188,14 @@ footer .social-links a:hover {
         font-size: 44px;
     }
 
+    .content-container {
+        padding-top: 0;
+    }
+
+    .content-container h1 {
+        font-size: 40px;
+    }
+
     .intro {
         padding: 80px 20px;
     }
